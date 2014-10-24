@@ -1,4 +1,5 @@
 polychrome
 ==========
 
-Prototype polymer web components in chrome
+Prototype polymer web components in chrome.
+Almost there!
